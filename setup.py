@@ -24,7 +24,7 @@ required_packages = [
     "click",
     "configobj",
     "keyring",
-    "python-novaclient<3.0.0",
+    "python-novaclient",
     "secretstorage",
     "six"
 ]
